@@ -33,6 +33,21 @@ sidebar:
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
+    interests:
+      title: Interests
+      info:
+        - item: Wireless Communication
+          link:
+
+        - item:  Wireless Security
+          link:
+        
+        - item: Physical Layer Security
+        
+        - item: Machine Learning
+
+        - item: Federated Learning 
+
     languages:
       title: Languages
       info:
@@ -42,14 +57,7 @@ sidebar:
         - idiom: Chinses
           level: Native
 
-    interests:
-      title: Interests
-      info:
-        - item: Hiking
-          link:
-
-        - item: Tennis
-          link:
+    
 
 career-profile:
     title: Career Profile
