@@ -41,12 +41,6 @@ sidebar:
 
         - item:  Wireless Security
           link:
-        
-        - item: Physical Layer Security
-        
-        - item: Machine Learning
-
-        - item: Federated Learning 
 
     languages:
       title: Languages
