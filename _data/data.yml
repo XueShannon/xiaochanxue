@@ -39,10 +39,13 @@ sidebar:
         - item: Wireless Communication
           link:
 
-        - item:  Wireless Security
+        - item: Wireless Security
           link:
 
-        - item:  Physical Layer Security
+        - item: Physical Layer Security
+          link:
+
+        - item: Machine/Federated Learning
           link:
 
     languages:
