@@ -42,6 +42,9 @@ sidebar:
         - item:  Wireless Security
           link:
 
+        - item:  Physical Layer Security
+          link:
+
     languages:
       title: Languages
       info:
